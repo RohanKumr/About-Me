@@ -138,6 +138,20 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankumr&show_icons=true&locale=en&layout=compact" alt="rohankumr" /></p>
+<hr >
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rohankumr&show_icons=true&locale=en&layout=compact"
+    alt="rohankumr"
+  />
+</p>
+<br /><br /><br /><br /><br /><br /><br />
+<hr />
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rohankumr&show_icons=true&locale=en"
+    alt="rohankumr"
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankumr&show_icons=true&locale=en" alt="rohankumr" /></p>
