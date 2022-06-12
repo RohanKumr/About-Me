@@ -1,4 +1,5 @@
-# FreeCodeCamp Certificates
+## About me
+<!-- # FreeCodeCamp Certificates
 
 ## Front End Libraries
 
@@ -11,7 +12,7 @@
 
 ![backend certificate](https://github.com/RohanKumr/FreeCodeCamp-Certificates/blob/master/backend-apis-certificate.png?raw=true)
 
-<br>
+<br> -->
 <h1 align="left">Hi 👋, I'm Rohan Kumar</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
 
