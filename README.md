@@ -12,9 +12,13 @@
 
 ![backend certificate](https://github.com/RohanKumr/FreeCodeCamp-Certificates/blob/master/backend-apis-certificate.png?raw=true)
 
+<br> 
 <br> -->
 <h1 align="left">Hi 👋, I'm Rohan Kumar</h1>
 <h3 align="left">A passionate frontend developer from India</h3>
+
+[FreeCodeCamp Certificates](https://www.freecodecamp.org/rohankumar/).
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumr&label=Profile%20views&color=0e75b6&style=flat" alt="rohankumr" /> </p>
 
